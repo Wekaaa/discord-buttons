@@ -1,0 +1,16 @@
+{
+  "name": "wekabutton",
+  "version": "1.0.0",
+  "description": "Discord MessageButton",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1"
+  },
+  "author": "Weka",
+  "license": "MIT"
+}
