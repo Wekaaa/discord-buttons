@@ -3,11 +3,11 @@ const client = new Client();
 const { MessageButton } = require('discord-buttons')(client);
 const moment = require('moment');
 
-client.cekilisrole = "863743662365343754" // ÇEKİLİŞ KATILIMICISI ROLÜ
-client.etkinlikrole = "863743701653389332" //ETKİNLİK KATILIMCIISI ROLÜ
+client.cekilisrole = "" // ÇEKİLİŞ KATILIMICISI ROLÜ
+client.etkinlikrole = "" //ETKİNLİK KATILIMCIISI ROLÜ
 
-client.botsahip = "607926085551783968" // KENDİ İDNİZ (!BUTTON) MESAJINI KULLANABİLİCEK KİŞİ
-client.Token = "ODYzNDE2MDg1MjIzMzA5MzMy.YOmk5A.081g32KVt0S-g-RXWZZlvs2xYLY" // BOTUNUZUN TOKENİ (İNTENTLERİ AÇMAYI UNUTMAYIN)
+client.botsahip = "" // KENDİ İDNİZ (!BUTTON) MESAJINI KULLANABİLİCEK KİŞİ
+client.Token = "" // BOTUNUZUN TOKENİ (İNTENTLERİ AÇMAYI UNUTMAYIN)
        
 //////////////////
 
